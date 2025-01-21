@@ -1,1 +1,152 @@
 ddd
+  160  which pipx 
+  161  sudo apt install pipx
+  162  pipx
+  163  pipx install arsenal
+  164  arsenal
+  165  sudo pipx install arsenal
+  166  pip install arsenal
+  167  arsenal
+  168  pipx install arsenal-cli
+  169  arsenal
+  170  sudo arsenal
+  171  witch arsenal
+  172  which arsenal
+  173  python3 -m pip install arsenal-cli
+  174  sudo mc
+  175  sudo apt install mc
+  176  sudo mc
+  177  python3 -m pip install arsenal-cli
+  178  sudo mc
+  179  python3 -m pip install arsenal-cli
+  180  witch arsenal
+  181  which arsenal
+  182  arsenaé
+  183  arsenal
+  184  git clone https://github.com/Orange-Cyberdefense/arsenal.git\n
+  185  cd arsenal
+  186  python3 -m pip install -r requirements.txt
+  187  ./run
+  188  arsenal
+  189  cd..
+  190  ls
+  191  cd ..
+  192  arsenal
+  193  cd ..
+  194  ls
+  195  arsenal
+  196  ls
+  197  run
+  198  ./run
+  199  ls
+  200  rm -r arsenal
+  201  ls
+  202  sudo apt install pipx
+  203  pipx install arsenal-cli
+  204  cd /home/kali/.local/share/pipx/venvs/arsenal-cli
+  205  ls
+  206  cd lib
+  207  ls
+  208  cd site-packages
+  209  ls
+  210  cd arsenal
+  211  ls
+  212  cd  ..
+  213  cd arsenal_cli-1.2.7.dist-info
+  214  ls
+  215  cat INSTALLER
+  216  cat top_level.txt
+  217  which arsenal
+  218  cd ..
+  219  ls
+  220  cd share
+  221  ls
+  222  cd pipx
+  223  ls
+  224  cd venvs
+  225  ls
+  226  pipx install arsenal-cli -f
+  227  pipx ensurepath
+  228  arsenal
+  229  source ~/.zshrc
+  230  arsenal
+  231  sysctl -w dev.tty.legacy_tiocsti=1
+  232  sudo sysctl -w dev.tty.legacy_tiocsti=1
+  233  arsenal
+  234  cd ~/.ssh
+  235  ls
+  236  cd ..
+  237  ls
+  238  cd gery
+  239  git add .
+  240  ls -l
+  241  cd ..
+  242  ls -l
+  243  rm -r gery
+  244  cd gery
+  245  ls -la
+  246  cd ..
+  247  rm -rf gery
+  248  git clone https://github.com/tothgeryy85/gery.git
+  249  cd gery
+  250  git add.
+  251  git add .
+  252  git status
+  253  git commit -m
+  254  git commit -m "create test 3"
+  255  git status
+  256  git push
+  257  cd .ssh
+  258  cd ../.ssh
+  259  nano config
+  260  ssh mygithub
+  261  cat config
+  262  ls
+  263  cat id_ed25519.pub
+  264  mv id_ed25519 id_github
+  265  mv id_ed25519.pub id_github.pub
+  266  ssh mygithub
+  267  nano config
+  268  ssh mygithub
+  269  cd gery
+  270  cd ../gery
+  271  git push
+  272  git remote set-url origin mygithub:tothgeryy85/gery.git
+  273  git push
+  274  git add.
+  275  git add .
+  276  git status
+  277  git commit -m "create test 4"
+  278  git push
+  279  cd /opt/
+  280  ls
+  281  mkdir myscripts
+  282  sudo mkdir myscripts
+  283  ls
+  284  cd myscripts
+  285  sudo mv ~/Downloads/gitupload.sh .
+  286  sudo ln -s gitupload.sh /usr/local/bin/gitupload
+  287  which gitupload
+  288  source ~/.zshrc
+  289  which gitupload
+  290  ls
+  291  ls -la /usr/local/bin
+  292  sudo chmod +x gitupload.sh
+  293  which gitupload
+  294  ls
+  295  ls -l
+  296  sudo chown R:root *
+  297  sudo chown -R root:root *
+  298  ls -l
+  299  which gitupload
+  300  which gitupload.sh
+  301  rm /usr/local/bin/gitupload
+  302  sudo rm /usr/local/bin/gitupload
+  303  sudo ln -s /opt/myscripts/gitupload.sh /usr/local/bin/gitupload
+  304  which gitupload
+  305  cd ~/gery
+  306  ls
+  307  touch valamifile
+  308  gitupload
+  309  gitupload ""
+  310  gitupload "e"
